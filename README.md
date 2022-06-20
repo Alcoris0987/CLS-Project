@@ -17,5 +17,7 @@ karafuncatalog.csv is the KaraFun catalogue dataset officially provided by KaraF
 
 spotifydata.xlsx is the Spotify data provided initially by Hamidani (2019) and modified for our usecase.
 
+We recommend running the codes on Google Colab rather than Jupyter.
+
 
 
